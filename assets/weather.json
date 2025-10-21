@@ -1,0 +1,34 @@
+{
+  "cities": [
+    {
+      "id": "amsterdam",
+      "name": "Amsterdam",
+      "type": "Light Rain",
+      "temp": 17,
+      "icon": "humidity_low",
+      "humidity": 84,
+      "wind": "18 km/h",
+      "visibility": "5m"
+    },
+    {
+      "id": "berlin",
+      "name": "Berlin",
+      "type": "Snow",
+      "temp": -4,
+      "icon": "ac_unit",
+      "humidity": 72,
+      "wind": "12 km/h",
+      "visibility": "3m"
+    },
+    {
+      "id": "athens",
+      "name": "Athens",
+      "type": "Clear",
+      "temp": 31,
+      "icon": "sunny",
+      "humidity": 44,
+      "wind": "9 km/h",
+      "visibility": "10m"
+    }
+  ]
+}
