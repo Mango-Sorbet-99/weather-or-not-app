@@ -80,7 +80,7 @@ const Controls = ({ cities = [], currentIndex = 0, onSelect }) => {
             colors: ["#ff029675", "#7255a475", "#c4d1db75"],
             width: 4,
             height: 4,
-            rotation: "-45deg",
+            rotation: "-90deg",
           });
         }
       })
